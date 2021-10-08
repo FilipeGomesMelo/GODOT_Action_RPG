@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/barHorizontal_red.png-1f0f4b1c7e943d266620ddd6c5fb3828.stex"
+path="res://.import/EnemyHealthBackgroud.png-f8810edc93da2e28ea8d404e629c68b0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Action RPG Resources/UI/barHorizontal_red.png"
-dest_files=[ "res://.import/barHorizontal_red.png-1f0f4b1c7e943d266620ddd6c5fb3828.stex" ]
+source_file="res://Action RPG Resources/UI/Enemy health/EnemyHealthBackgroud.png"
+dest_files=[ "res://.import/EnemyHealthBackgroud.png-f8810edc93da2e28ea8d404e629c68b0.stex" ]
 
 [params]
 
