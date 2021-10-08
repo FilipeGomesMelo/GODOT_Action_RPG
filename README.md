@@ -1,5 +1,5 @@
 # GODOT_Action_RPG
-Action RPG made with Godot Engine following [HeartBeast tutorial](https://www.youtube.com/watch?v=mAbG8Oi-SvQ&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a), all artwork, music and sond effects bellong to .
+Action RPG made with Godot Engine following [HeartBeast tutorial](https://www.youtube.com/watch?v=mAbG8Oi-SvQ&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a), all artwork, music and sond effects bellong to HeartBeast himself.
 
 This project has been lots of fun, HeartBeast’s tutorial is very well made and gave me a really good initial understanding of the tools of the Godot engine. I had made some experiments with other game making tools like Löve, Pygame and Unity, compared to Löve and Pygame, Godot has a lot more features to use, making the development quite a bit quicker and streamlined, compared to Unity, Godot seem to have a more intuitive design and a dedicated 2d engine, making it quite easy to get started, I also had some trouble with Unity being a bit to heavy and costly for my machine, it took long to open projects and it used to crash or get stuck quite often, witch was quite frustrating.
 
