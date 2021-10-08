@@ -3,6 +3,8 @@ Action RPG made with Godot Engine following [HeartBeast tutorial](https://www.yo
 
 This project has been lots of fun, HeartBeast’s tutorial is very well made and gave me a really good initial understanding of the tools of the Godot engine. I had made some experiments with other game making tools like Löve, Pygame and Unity, compared to Löve and Pygame, Godot has a lot more features to use, making the development quite a bit quicker and streamlined, compared to Unity, Godot seem to have a more intuitive design and a dedicated 2d engine, making it quite easy to get started, I also had some trouble with Unity being a bit to heavy and costly for my machine, it took long to open projects and it used to crash or get stuck quite often, witch was quite frustrating.
 
+Godot on the other hand seems to be the perfect engine for my work style, computer limitations and for the types of games I'm interested in making, I'm excited to make future projects with the engine.
+
 #  Changes and Additions:
 
 I made some changes to the original project in the tutorial and added a few things of my own. I plan to add more features as time goes on.
