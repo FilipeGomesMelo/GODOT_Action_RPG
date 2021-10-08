@@ -1,0 +1,17 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://TextureProgress.gd" type="Script" id=1]
+[ext_resource path="res://Action RPG Resources/UI/EnemyHealthBackgroud.png" type="Texture" id=2]
+[ext_resource path="res://Action RPG Resources/UI/EnemyHealth.png" type="Texture" id=3]
+
+[node name="TextureProgress" type="TextureProgress"]
+margin_right = 40.0
+margin_bottom = 40.0
+texture_under = ExtResource( 2 )
+texture_over = ExtResource( 3 )
+texture_progress = ExtResource( 2 )
+tint_under = Color( 0.439216, 0.439216, 0.439216, 1 )
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
